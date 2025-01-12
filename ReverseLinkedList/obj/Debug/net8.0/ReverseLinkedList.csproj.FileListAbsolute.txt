@@ -1,0 +1,15 @@
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.deps.json
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.runtimeconfig.json
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.dll
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/bin/Debug/net8.0/ReverseLinkedList.pdb
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.AssemblyInfoInputs.cache
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.AssemblyInfo.cs
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.csproj.CoreCompileInputs.cache
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.sourcelink.json
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.dll
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/refint/ReverseLinkedList.dll
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.pdb
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ReverseLinkedList.genruntimeconfig.cache
+/workspaces/JS-FundementalConceptsDemos/ReverseLinkedList/obj/Debug/net8.0/ref/ReverseLinkedList.dll

@@ -1,0 +1,15 @@
+/workspaces/JS-FundementalConceptsDemos/Hash/bin/Debug/net8.0/Hash
+/workspaces/JS-FundementalConceptsDemos/Hash/bin/Debug/net8.0/Hash.deps.json
+/workspaces/JS-FundementalConceptsDemos/Hash/bin/Debug/net8.0/Hash.runtimeconfig.json
+/workspaces/JS-FundementalConceptsDemos/Hash/bin/Debug/net8.0/Hash.dll
+/workspaces/JS-FundementalConceptsDemos/Hash/bin/Debug/net8.0/Hash.pdb
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.AssemblyInfoInputs.cache
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.AssemblyInfo.cs
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.csproj.CoreCompileInputs.cache
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.sourcelink.json
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.dll
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/refint/Hash.dll
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.pdb
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/Hash.genruntimeconfig.cache
+/workspaces/JS-FundementalConceptsDemos/Hash/obj/Debug/net8.0/ref/Hash.dll

@@ -1,0 +1,15 @@
+/workspaces/JS-FundementalConceptsDemos/Decorator/bin/Debug/net8.0/Decorator
+/workspaces/JS-FundementalConceptsDemos/Decorator/bin/Debug/net8.0/Decorator.deps.json
+/workspaces/JS-FundementalConceptsDemos/Decorator/bin/Debug/net8.0/Decorator.runtimeconfig.json
+/workspaces/JS-FundementalConceptsDemos/Decorator/bin/Debug/net8.0/Decorator.dll
+/workspaces/JS-FundementalConceptsDemos/Decorator/bin/Debug/net8.0/Decorator.pdb
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfoInputs.cache
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.AssemblyInfo.cs
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.csproj.CoreCompileInputs.cache
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.sourcelink.json
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.dll
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/refint/Decorator.dll
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.pdb
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/Decorator.genruntimeconfig.cache
+/workspaces/JS-FundementalConceptsDemos/Decorator/obj/Debug/net8.0/ref/Decorator.dll

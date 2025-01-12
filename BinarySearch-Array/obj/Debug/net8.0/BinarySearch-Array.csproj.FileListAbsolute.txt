@@ -1,0 +1,15 @@
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/bin/Debug/net8.0/BinarySearch-Array
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/bin/Debug/net8.0/BinarySearch-Array.deps.json
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/bin/Debug/net8.0/BinarySearch-Array.runtimeconfig.json
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/bin/Debug/net8.0/BinarySearch-Array.dll
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/bin/Debug/net8.0/BinarySearch-Array.pdb
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.AssemblyInfoInputs.cache
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.AssemblyInfo.cs
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.csproj.CoreCompileInputs.cache
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.sourcelink.json
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.dll
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/refint/BinarySearch-Array.dll
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.pdb
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/BinarySearch-Array.genruntimeconfig.cache
+/workspaces/JS-FundementalConceptsDemos/BinarySearch-Array/obj/Debug/net8.0/ref/BinarySearch-Array.dll
